@@ -1,16 +1,15 @@
-### Hi there 👋
+### hi there, i'm kelly 👋
+
+a little snippet of who i am:
 
 <!--
 **kellydunleavy/kellydunleavy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+- 👩🏻‍💻   i just wrapped up my third internship @ microsoft as a software engineer within the office graphics group !
+- 📚   i'm a senior studying computer engineering @ uiuc !
+- 🌎   i spend my free time building web apps for social good with [hack4impact uiuc](https://uiuc.hack4impact.org/) - take a look @ our projects [here](https://github.com/hack4impact-uiuc) !
+- 💬   ask me about my love of tacos or my favorite class ive taken @ uiuc, ece391 (operating systems) !
+- 📫   you can reach me via [email](kellypd2@illinois.edu) or [linkedin](https://www.linkedin.com/in/kelly-dunleavy/)
+- 💘   pronouns: she/her/hers
+
