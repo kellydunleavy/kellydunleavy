@@ -7,7 +7,7 @@ a little snippet of who i am:
 -->
 
 - 👩🏻‍💻   i just wrapped up my third internship @ microsoft as a software engineer within the office graphics group !
-- 📚   i'm a senior studying computer engineering @ uiuc !
+- 📚   i'm a senior studying computer engineering @ uiuc with a focus in systems !
 - 🌎   i spend my free time building web apps for social good with [hack4impact uiuc](https://uiuc.hack4impact.org/) - take a look @ our projects [here](https://github.com/hack4impact-uiuc) !
 - 💬   ask me about my love of tacos or my favorite class ive taken @ uiuc, ece391 (operating systems) !
 - 📫   you can reach me via [email](kellypd2@illinois.edu) or [linkedin](https://www.linkedin.com/in/kelly-dunleavy/)
